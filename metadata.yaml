@@ -1,0 +1,24 @@
+_repo: The-Norwich-Directory--1802-_44709
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Peck, Thomas
+    gutenberg_agent_id: '42883'
+    url: http://www.gutenberg.org/2009/agents/42883
+description: ''
+gutenberg_issued: '2014-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Norwich (England) -- Directories'
+title: The Norwich Directory [1802]
+url: http://www.gutenberg.org/ebooks/44709
